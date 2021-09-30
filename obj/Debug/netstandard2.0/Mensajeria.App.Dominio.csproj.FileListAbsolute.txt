@@ -1,0 +1,9 @@
+C:\Proyecto\Mensajeria.App\Mensajeria.App.Dominio\bin\Debug\netstandard2.0\Mensajeria.App.Dominio.deps.json
+C:\Proyecto\Mensajeria.App\Mensajeria.App.Dominio\bin\Debug\netstandard2.0\Mensajeria.App.Dominio.dll
+C:\Proyecto\Mensajeria.App\Mensajeria.App.Dominio\bin\Debug\netstandard2.0\Mensajeria.App.Dominio.pdb
+C:\Proyecto\Mensajeria.App\Mensajeria.App.Dominio\obj\Debug\netstandard2.0\Mensajeria.App.Dominio.csprojAssemblyReference.cache
+C:\Proyecto\Mensajeria.App\Mensajeria.App.Dominio\obj\Debug\netstandard2.0\Mensajeria.App.Dominio.AssemblyInfoInputs.cache
+C:\Proyecto\Mensajeria.App\Mensajeria.App.Dominio\obj\Debug\netstandard2.0\Mensajeria.App.Dominio.AssemblyInfo.cs
+C:\Proyecto\Mensajeria.App\Mensajeria.App.Dominio\obj\Debug\netstandard2.0\Mensajeria.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Proyecto\Mensajeria.App\Mensajeria.App.Dominio\obj\Debug\netstandard2.0\Mensajeria.App.Dominio.dll
+C:\Proyecto\Mensajeria.App\Mensajeria.App.Dominio\obj\Debug\netstandard2.0\Mensajeria.App.Dominio.pdb
